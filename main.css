@@ -1,0 +1,15 @@
+ .col-sm , .col-sm-3{
+     padding: 20px ;
+     background-color: #000FFF;
+     margin: 20px;
+ }
+ .col , .col-4{
+     padding: 20px ;
+     background-color: #000FFF;
+     margin: 20px;
+ }
+  .col-auto{
+     padding: 20px ;
+     background-color: #000FFF;
+     margin: 20px;
+ }
